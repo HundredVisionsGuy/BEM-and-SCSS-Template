@@ -1,0 +1,24 @@
+{
+  "name": "bem-and-scss-template",
+  "version": "1.0.0",
+  "description": "A BEM and SCSS Template for a more Modern CSS approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HundredVisionsGuy/BEM-and-SCSS-Template.git"
+  },
+  "keywords": [
+    "bem",
+    "sass",
+    "scss"
+  ],
+  "author": "hundredvisionsguy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HundredVisionsGuy/BEM-and-SCSS-Template/issues"
+  },
+  "homepage": "https://github.com/HundredVisionsGuy/BEM-and-SCSS-Template#readme"
+}
